@@ -1,0 +1,1 @@
+srun -N2 -c5 ./mapreduce TEST01 12 4 /home/pp22/pp22s29/hw4/testcase/hw4/01.word 2 /home/pp22/pp22s29/hw4/testcase/hw4/01.loc ./output_dir

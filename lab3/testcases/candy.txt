@@ -1,0 +1,4 @@
+procs=1
+threads=1
+gpus=1
+timelimit=5
